@@ -1,2 +1,2 @@
 # API-CEP
-Implementando API de CEP. Aula do curso Back End da Softex.
+Implementando API de CEP. Aula prática do curso Back End da Softex.
